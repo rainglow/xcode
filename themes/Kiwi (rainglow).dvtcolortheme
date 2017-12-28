@@ -24,7 +24,7 @@ Find more themes at : https://github.com/rainglow/xcode
     <key>DVTConsoleExectuableOutputTextColor</key>
     <string>0.13333333333333333 0.6 0.5254901960784314 1</string>
     <key>DVTConsoleTextBackgroundColor</key>
-    <string>0.08627450980392157 0.10196078431372549 0.09803921568627451 1</string>
+    <string>0.16470588235294117 0.2 0.18823529411764706 1</string>
     <key>DVTConsoleTextInsertionPointColor</key>
     <string>0.9725490196078431 0.9725490196078431 0.9411764705882353 1</string>
     <key>DVTConsoleTextSelectionColor</key>
@@ -32,13 +32,13 @@ Find more themes at : https://github.com/rainglow/xcode
     <key>DVTDebuggerInstructionPointerColor</key>
     <string>0.9725490196078431 0.9725490196078431 0.9411764705882353 1</string>
     <key>DVTSourceTextBackground</key>
-    <string>0.08627450980392157 0.10196078431372549 0.09803921568627451 1</string>
+    <string>0.16470588235294117 0.2 0.18823529411764706 1</string>
     <key>DVTSourceTextBlockDimBackgroundColor</key>
-    <string>0.08627450980392157 0.10196078431372549 0.09803921568627451 1</string>
+    <string>0.16470588235294117 0.2 0.18823529411764706 1</string>
     <key>DVTSourceTextInsertionPointColor</key>
     <string>0.9725490196078431 0.9725490196078431 0.9411764705882353 1</string>
     <key>DVTSourceTextInvisiblesColor</key>
-    <string>0.23137254901960785 0.22745098039215686 0.19607843137254902 1</string>
+    <string>0.2901960784313726 0.34901960784313724 0.32941176470588235 1</string>
     <key>DVTSourceTextSelectionColor</key>
     <string>0.043137254901960784 0.42745098039215684 0.3607843137254902 1</string>
     <key>DVTSourceTextSyntaxColors</key>
@@ -48,11 +48,11 @@ Find more themes at : https://github.com/rainglow/xcode
         <key>xcode.syntax.character</key>
         <string>0.6313725490196078 0.9019607843137255 0.7568627450980392 1</string>
         <key>xcode.syntax.comment</key>
-        <string>0.20784313725490197 0.2627450980392157 0.2549019607843137 1</string>
+        <string>0.3411764705882353 0.42745098039215684 0.41568627450980394 1</string>
         <key>xcode.syntax.comment.doc</key>
-        <string>0.3568627450980392 0.47843137254901963 0.4588235294117647 1</string>
+        <string>0.4392156862745098 0.5882352941176471 0.5647058823529412 1</string>
         <key>xcode.syntax.comment.doc.keyword</key>
-        <string>0.3568627450980392 0.47843137254901963 0.4588235294117647 1</string>
+        <string>0.4392156862745098 0.5882352941176471 0.5647058823529412 1</string>
         <key>xcode.syntax.identifier.class</key>
         <string>0.5843137254901961 0.7803921568627451 0.16470588235294117 1</string>
         <key>xcode.syntax.identifier.class.system</key>

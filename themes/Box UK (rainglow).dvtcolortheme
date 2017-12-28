@@ -14,7 +14,7 @@ Find more themes at : https://github.com/rainglow/xcode
 <plist version="1.0">
 <dict>
     <key>DVTConsoleDebuggerInputTextColor</key>
-    <string>0.2549019607843137 0.30980392156862746 0.3607843137254902 1</string>
+    <string>1 1 1 1</string>
     <key>DVTConsoleDebuggerOutputTextColor</key>
     <string>0.00392156862745098 0.48627450980392156 0.615686274509804 1</string>
     <key>DVTConsoleDebuggerPromptTextColor</key>
@@ -24,21 +24,21 @@ Find more themes at : https://github.com/rainglow/xcode
     <key>DVTConsoleExectuableOutputTextColor</key>
     <string>0.00392156862745098 0.48627450980392156 0.615686274509804 1</string>
     <key>DVTConsoleTextBackgroundColor</key>
-    <string>1 1 1 1</string>
+    <string>0.16470588235294117 0.20784313725490197 0.24705882352941178 1</string>
     <key>DVTConsoleTextInsertionPointColor</key>
-    <string>0.13333333333333333 0.13333333333333333 0.13333333333333333 1</string>
+    <string>1 1 1 1</string>
     <key>DVTConsoleTextSelectionColor</key>
     <string>0.00392156862745098 0.48627450980392156 0.615686274509804 1</string>
     <key>DVTDebuggerInstructionPointerColor</key>
-    <string>0.13333333333333333 0.13333333333333333 0.13333333333333333 1</string>
+    <string>1 1 1 1</string>
     <key>DVTSourceTextBackground</key>
-    <string>1 1 1 1</string>
+    <string>0.16470588235294117 0.20784313725490197 0.24705882352941178 1</string>
     <key>DVTSourceTextBlockDimBackgroundColor</key>
-    <string>1 1 1 1</string>
+    <string>0.16470588235294117 0.20784313725490197 0.24705882352941178 1</string>
     <key>DVTSourceTextInsertionPointColor</key>
-    <string>0.13333333333333333 0.13333333333333333 0.13333333333333333 1</string>
+    <string>1 1 1 1</string>
     <key>DVTSourceTextInvisiblesColor</key>
-    <string>0.23137254901960785 0.22745098039215686 0.19607843137254902 1</string>
+    <string>0.34509803921568627 0.43529411764705883 0.5176470588235295 1</string>
     <key>DVTSourceTextSelectionColor</key>
     <string>0.00392156862745098 0.48627450980392156 0.615686274509804 1</string>
     <key>DVTSourceTextSyntaxColors</key>
@@ -48,11 +48,11 @@ Find more themes at : https://github.com/rainglow/xcode
         <key>xcode.syntax.character</key>
         <string>0.08235294117647059 0.7215686274509804 0.6823529411764706 1</string>
         <key>xcode.syntax.comment</key>
-        <string>0.7215686274509804 0.7137254901960784 0.6941176470588235 1</string>
+        <string>0.4823529411764706 0.596078431372549 0.6980392156862745 1</string>
         <key>xcode.syntax.comment.doc</key>
-        <string>0.5333333333333333 0.5333333333333333 0.5333333333333333 1</string>
+        <string>0.5450980392156862 0.6705882352941176 0.7764705882352941 1</string>
         <key>xcode.syntax.comment.doc.keyword</key>
-        <string>0.5333333333333333 0.5333333333333333 0.5333333333333333 1</string>
+        <string>0.5450980392156862 0.6705882352941176 0.7764705882352941 1</string>
         <key>xcode.syntax.identifier.class</key>
         <string>0.00392156862745098 0.615686274509804 0.4627450980392157 1</string>
         <key>xcode.syntax.identifier.class.system</key>
@@ -74,15 +74,15 @@ Find more themes at : https://github.com/rainglow/xcode
         <key>xcode.syntax.identifier.type.system</key>
         <string>0.08235294117647059 0.7215686274509804 0.6823529411764706 1</string>
         <key>xcode.syntax.identifier.variable</key>
-        <string>0.2549019607843137 0.30980392156862746 0.3607843137254902 1</string>
+        <string>1 1 1 1</string>
         <key>xcode.syntax.identifier.variable.system</key>
-        <string>0.2549019607843137 0.30980392156862746 0.3607843137254902 1</string>
+        <string>1 1 1 1</string>
         <key>xcode.syntax.keyword</key>
         <string>0.00392156862745098 0.48627450980392156 0.615686274509804 1</string>
         <key>xcode.syntax.number</key>
         <string>0.08235294117647059 0.7215686274509804 0.6823529411764706 1</string>
         <key>xcode.syntax.plain</key>
-        <string>0.2549019607843137 0.30980392156862746 0.3607843137254902 1</string>
+        <string>1 1 1 1</string>
         <key>xcode.syntax.preprocessor</key>
         <string>0.00392156862745098 0.615686274509804 0.4627450980392157 1</string>
         <key>xcode.syntax.string</key>
