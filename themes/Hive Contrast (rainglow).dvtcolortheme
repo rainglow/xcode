@@ -38,7 +38,7 @@ Find more themes at : https://github.com/rainglow/xcode
     <key>DVTSourceTextInsertionPointColor</key>
     <string>0.9725490196078431 0.9725490196078431 0.9411764705882353 1</string>
     <key>DVTSourceTextInvisiblesColor</key>
-    <string>0.1607843137254902 0.16862745098039217 0.23921568627450981 1</string>
+    <string>0.1803921568627451 0.19215686274509805 0.2627450980392157 1</string>
     <key>DVTSourceTextSelectionColor</key>
     <string>0.48627450980392156 0.7215686274509804 0.7294117647058823 1</string>
     <key>DVTSourceTextSyntaxColors</key>
@@ -50,9 +50,9 @@ Find more themes at : https://github.com/rainglow/xcode
         <key>xcode.syntax.comment</key>
         <string>0.2549019607843137 0.2627450980392157 0.3568627450980392 1</string>
         <key>xcode.syntax.comment.doc</key>
-        <string>0.36470588235294116 0.3764705882352941 0.5098039215686274 1</string>
+        <string>0 0 0 1</string>
         <key>xcode.syntax.comment.doc.keyword</key>
-        <string>0.36470588235294116 0.3764705882352941 0.5098039215686274 1</string>
+        <string>0 0 0 1</string>
         <key>xcode.syntax.identifier.class</key>
         <string>0.43137254901960786 0.5058823529411764 0.6274509803921569 1</string>
         <key>xcode.syntax.identifier.class.system</key>

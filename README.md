@@ -2,7 +2,7 @@
 
 ## XCode (BETA)
 
-Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **250+ syntax and UI themes** for [XCode](https://developer.apple.com/xcode/).
+Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **320+ syntax and UI themes** for [XCode](https://developer.apple.com/xcode/).
 
 <a href="https://raw.githubusercontent.com/rainglow/examples/master/xcode/gloom-contrast.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/xcode/gloom-contrast.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/xcode/kiwi.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/xcode/kiwi.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/xcode/piggy.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/xcode/piggy.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/xcode/earthsong.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/xcode/earthsong.png" width="340" /></a>
 
