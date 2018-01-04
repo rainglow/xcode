@@ -50,9 +50,9 @@ Find more themes at : https://github.com/rainglow/xcode
         <key>xcode.syntax.comment</key>
         <string>0.396078431372549 0.35294117647058826 0.4470588235294118 1</string>
         <key>xcode.syntax.comment.doc</key>
-        <string>0 0 0 1</string>
+        <string>0.5450980392156862 0.4980392156862745 0.6039215686274509 1</string>
         <key>xcode.syntax.comment.doc.keyword</key>
-        <string>0 0 0 1</string>
+        <string>0.5450980392156862 0.4980392156862745 0.6039215686274509 1</string>
         <key>xcode.syntax.identifier.class</key>
         <string>0.48627450980392156 0.3803921568627451 0.48627450980392156 1</string>
         <key>xcode.syntax.identifier.class.system</key>
