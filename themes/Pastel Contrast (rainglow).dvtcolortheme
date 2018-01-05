@@ -22,13 +22,13 @@ Find more themes at : https://github.com/rainglow/xcode
     <key>DVTConsoleExectuableInputTextColor</key>
     <string>0.7725490196078432 0.4235294117647059 0.4235294117647059 1</string>
     <key>DVTConsoleExectuableOutputTextColor</key>
-    <string>0.7725490196078432 0.5647058823529412 0.4235294117647059 1</string>
+    <string>0.9333333333333333 0.9333333333333333 0.9333333333333333 1</string>
     <key>DVTConsoleTextBackgroundColor</key>
     <string>0.058823529411764705 0.058823529411764705 0.058823529411764705 1</string>
     <key>DVTConsoleTextInsertionPointColor</key>
     <string>0.9725490196078431 0.9725490196078431 0.9411764705882353 1</string>
     <key>DVTConsoleTextSelectionColor</key>
-    <string>0 0.5529411764705883 0.3843137254901961 1</string>
+    <string>0 0 0 1</string>
     <key>DVTDebuggerInstructionPointerColor</key>
     <string>0.9725490196078431 0.9725490196078431 0.9411764705882353 1</string>
     <key>DVTSourceTextBackground</key>
@@ -40,7 +40,7 @@ Find more themes at : https://github.com/rainglow/xcode
     <key>DVTSourceTextInvisiblesColor</key>
     <string>0.20784313725490197 0.20784313725490197 0.20784313725490197 1</string>
     <key>DVTSourceTextSelectionColor</key>
-    <string>0 0.5529411764705883 0.3843137254901961 1</string>
+    <string>0 0 0 1</string>
     <key>DVTSourceTextSyntaxColors</key>
     <dict>
         <key>xcode.syntax.attribute</key>
