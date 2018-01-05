@@ -1,8 +1,12 @@
 # CHANGELOG
 
-## 1.5.1 | 2018.01.05
+## 1.5.2 | 2018.01.05
 
 Added Monzo theme.
+
+## 1.5.1 | 2018.01.04
+
+Fix for codeblock rendering issues.
 
 ## 1.5.0 | 2018.01.02
 
